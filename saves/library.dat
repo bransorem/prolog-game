@@ -1,0 +1,7 @@
+start.
+look(wallet).
+take(wallet).
+look(wallet).
+use(id_card, door).
+s.
+load_time(0,0,24).

@@ -1,0 +1,14 @@
+start.
+look.
+take(wallet).
+look(wallet).
+look(id_card).
+use(id_card, door).
+s.
+look.
+look(e).
+use(ladder).
+take(box).
+take(scribbled_note).
+look(scribbled_note).
+load_time(0,3,37).

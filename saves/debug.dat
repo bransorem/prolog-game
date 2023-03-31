@@ -1,0 +1,10 @@
+start.
+look.
+write('MUSEUM =========================================================').
+look(n).
+look(e).
+look(s).
+look(w).
+
+
+load_time(0,2,37).
